@@ -1,0 +1,1 @@
+knowledge of shell permission
